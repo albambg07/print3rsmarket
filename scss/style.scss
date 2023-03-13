@@ -1,0 +1,19 @@
+.card {
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.2);
+}
+
+.card:hover {
+    box-shadow: none;
+}
+
+#div-titulo {
+    padding: 0.5em;
+}
+
+#titulo {
+    font-size: 2.25vh;
+}
+
+#logo-barra {
+    width: 30%;
+}
